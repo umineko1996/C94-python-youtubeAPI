@@ -1,0 +1,2 @@
+# C94-python-youtubeAPI
+コミックマーケット94で「職場でNavelチョコ食べたい」にて頒布した「声に寄り添う技術の作法」に収録されている「PythonでYoutubeDataAPI使ってみた」用に作成したコードです
